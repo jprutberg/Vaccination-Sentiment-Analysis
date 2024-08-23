@@ -1,7 +1,7 @@
-# Vaccination Sentiment Analysis Using LLM, NLP, and Time Series Techniques
+# Vaccination Sentiment Analysis Using LLM, NLP, Time Series, and RNN Techniques
 
 ## Introduction
-This project focuses on analyzing public sentiment toward COVID-19 vaccination using a combination of Natural Language Processing (NLP) techniques and time series analysis. Leveraging Large Language Models (LLMs) for advanced text processing, the analysis is conducted on a dataset of social media posts to understand sentiment trends over time. The project utilizes several Python libraries, including `pandas` for data manipulation, `numpy` for numerical operations, `TextBlob` for sentiment analysis, `matplotlib` and `seaborn` for data visualization, `statsmodels` and `pmdarima` for time series analysis and forecasting, and `PyTorch` for implementing RNNs.
+This project focuses on analyzing public sentiment toward COVID-19 vaccination using a combination of Natural Language Processing (NLP) techniques, time series analysis, and Recurrent Neural Networks (RNNs).  Leveraging Large Language Models (LLMs) for advanced text processing, the analysis is conducted on a dataset of social media posts to understand sentiment trends over time. The project utilizes several Python libraries, including `pandas` for data manipulation, `numpy` for numerical operations, `TextBlob` for sentiment analysis, `matplotlib` and `seaborn` for data visualization, `statsmodels` and `pmdarima` for time series analysis and forecasting, and `PyTorch` for implementing RNNs.
 
 ## Purpose
 The primary purpose of this project is to develop a model that can accurately assess and forecast public sentiment on COVID-19 vaccination over time. By analyzing sentiment trends and comparing different modeling approaches, including ARIMA, Holt-Winters, and RNNs, the project aims to provide insights that can inform public health communication strategies and improve understanding of public attitudes toward vaccination.
